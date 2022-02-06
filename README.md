@@ -1,0 +1,10 @@
+# Online-Book-Store
+npm install
+
+## ENV_VARIABLES
+
+MONGO_USERNAME,
+MONGO_PASSWORD,
+MONGO_DB,
+STRIPE_KEY,
+PORT=3000
