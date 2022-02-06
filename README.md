@@ -10,7 +10,7 @@ MONGO_USERNAME,
 MONGO_PASSWORD,
 MONGO_DB,
 STRIPE_KEY,
-PORT=3000
+PORT
 
 ## Website
 (https://onlinee-bookstore.herokuapp.com/)
